@@ -6,7 +6,9 @@ Objetivo: Explicar de forma simples e objetiva para empresários de PME's, o que
 
 **Curadoria de Fontes:**
 https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm
+
 https://www.youtube.com/watch?v=eHSO_ae8QXo&t=46s
+
 https://sebrae.com.br/subsites/lgpd
 
 **Engenharia de Prompts e "Cicatrizes":**
